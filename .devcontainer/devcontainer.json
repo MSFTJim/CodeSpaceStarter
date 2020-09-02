@@ -19,5 +19,7 @@
       "ms-vsliveshare.vsliveshare",
       "visualstudioexptteam.vscodeintellicode",
       "yzhang.markdown-all-in-one"
-    ]
+    ],
+    
+    "postCreateCommand": "/bin/bash ./.devcontainer/post-create.sh > ~/post-create.log"
 }
