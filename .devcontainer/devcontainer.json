@@ -8,7 +8,7 @@
 		"github.vscode-pull-request-github",
 		"ms-vsliveshare.vsliveshare",
 		"ms-dotnettools.csharp",
-		"mhutchie.git-graph"
+		
 	],
 	//current default CS has everything needed so no extra items to install at this time 1-6-21 
 	//    "dockerFile": "Dockerfile",
